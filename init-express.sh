@@ -92,5 +92,4 @@ EOL
 echo "Projet Express avec TypeScript initialisé avec succès!"
 echo "Pour commencer, exécutez:"
 echo "cd $1"
-echo "npm install"
 echo "npm run dev" 
