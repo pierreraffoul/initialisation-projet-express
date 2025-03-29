@@ -6,12 +6,12 @@ Un script bash pour créer rapidement un projet Express avec TypeScript, Nodemon
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votre-username/initialisation-projet-express.git
+git clone https://github.com/pierreraffoul/initialisation-projet-express.git
 ```
 
 2. Ajoutez l'alias à votre shell :
 ```bash
-echo "alias init-express-api='bash ~/Documents/utile/créateur_projet_express/init-express.sh'" >> ~/.bashrc
+echo "alias init-express-api='bash ~/chemin/vers/le/fichier/init-express.sh'" >> ~/.bashrc
 ```
 
 3. Rechargez votre shell :
